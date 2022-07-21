@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Controllers;
+
 use App\Models\MemberModel;
 use App\Models\UserModel;
 use App\Models\LoanModel;

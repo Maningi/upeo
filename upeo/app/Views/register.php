@@ -10,7 +10,7 @@
             <div class="col-lg-12">
               <div class="card-body p-md-5 mx-md-12 align-items-center">
 					<div class="text-center">
-						<img src="/images/UpeoLogo.png"
+						<img src="<?= base_url('images/UpeoLogo.png'); ?>"
 							style="width: 185px;" alt="logo">
 						<h4 class="mt-1 mb-5 pb-1">We are Upeo Chama <br>Register</h4>
 					</div>

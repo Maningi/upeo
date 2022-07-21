@@ -131,3 +131,8 @@ public/images
 public/diskmanagement
 public/uganda
 public/moneymakers
+
+
+# Ignore index.php and spark files (Adjusted for PHP 8.1)
+public/index.php
+spark
